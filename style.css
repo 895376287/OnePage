@@ -69,22 +69,6 @@ a{
     padding-left: 0;
     width: 100px;
 }
-/* animations / utilities */
-.section-2 a:hover{
-    font-size: 1.3rem;
-    color: #fff;
-    cursor: pointer;
-}
-
-.section-1 a:hover{
-    color: #fff;
-    cursor: pointer;
-}
-
-.white:hover{
-    position: relative;
-    padding-left: 10px;
-}
 
 /* media queres */
 @media(max-width:780px){
